@@ -1,0 +1,15 @@
+header {
+  background-color: gray;
+  text-align: center;
+  padding: 1rem;
+  color: white;
+}
+
+.container {
+  height: 40rem;
+}
+
+.container > div {
+  width: 100%;
+  height: 100%;
+}
