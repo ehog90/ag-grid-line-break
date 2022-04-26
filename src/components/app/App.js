@@ -41,7 +41,7 @@ function App() {
 
   return (
     <Fragment>
-      <header>Ag-Grid line-break test</header>
+      <header>Ag-Grid line-break test (With v27 ag-grid-stack)</header>
       <main>
         <div className="container">
           <div className="ag-theme-alpine">
