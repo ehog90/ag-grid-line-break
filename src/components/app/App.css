@@ -13,3 +13,7 @@ header {
   width: 100%;
   height: 100%;
 }
+
+.ag-cell {
+  background: url(./ag-cell-pattern.png);
+}
